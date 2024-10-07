@@ -1,4 +1,4 @@
-/* Write a function to find the longest common prefix string amongst an array of strings.*/
+// Write a function to find the longest common prefix string amongst an array of strings.
 class Solution(object):
     def longestCommonPrefix(self, strs):
         min=200
